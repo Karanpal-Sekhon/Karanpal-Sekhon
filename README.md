@@ -88,12 +88,6 @@ Medical prediction model for stroke risk assessment using machine learning.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpal-Sekhon&layout=compact&theme=radical)
 
-## 🏆 Achievements
-- **Pair Extraordinaire** - Collaborative development excellence
-- **Pull Shark** (x2) - Consistent contribution to open source
-- **YOLO** - Efficient problem-solving approach
-- **Quickdraw** - Rapid development and deployment
-
 ## 🎓 Certifications
 - Certificate in Fundamentals of Reinforcement Learning and A Complete Reinforcement Learning System
 - LangChain for LLM Application Development
