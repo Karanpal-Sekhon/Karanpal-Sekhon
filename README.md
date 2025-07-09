@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Karanpal Sekhon
 
 ## 🚀 About Me
-I'm an aspiring **ML/AI Software Engineer** currently pursuing a Bachelor's in Computing Science (Specialization in Computing Science) at the University of Alberta. I'm passionate about developing innovative AI solutions and have hands-on experience in machine learning, deep learning, and full-stack development.
+I'm an aspiring **ML/AI Software Engineer** with a Bachelor's in Computing Science (Specialization in Computing Science) at the University of Alberta. I'm passionate about developing innovative AI solutions and have hands-on experience in machine learning, deep learning, and full-stack development.
 
 🔭 Currently working as an **Applied Machine Learning Intern** at Vector Institute  
 📫 How to reach me: **ksekhon2015@gmail.com**  
