@@ -61,16 +61,11 @@ A scalable inference server for T5 transformer models, enabling efficient text-t
 - **Tech Stack:** Python, PyTorch, FastAPI
 - **Features:** High-performance inference, RESTful API, scalable architecture
 
-### 📚 [RAG-Study-Helper](https://github.com/Karanpal-Sekhon/RAG-Study-Helper)
-An AI-powered study assistant leveraging Retrieval-Augmented Generation for contextual question answering.
-- **Tech Stack:** JavaScript, LangChain, OpenAI API
-- **Features:** Document ingestion, contextual Q&A, study optimization
-
-### 📱 [Folio](https://github.com/Karanpal-Sekhon/Folio)
-AI-driven study app with advanced features for content management and optimization.
-- **Tech Stack:** Python, Django, React, LangGraph, OpenAI API
-- **Features:** RAG workflows, agentic workflows, dynamic content management
-- **Highlights:** Advanced prompt engineering, modular architecture
+### 📚 [Folio (RAG-Study-Helper)](https://github.com/Karanpal-Sekhon/RAG-Study-Helper)
+AI-driven study app leveraging Retrieval-Augmented Generation for contextual question answering and content management.
+- **Tech Stack:** Python, Django, React, LangChain, LangGraph, OpenAI API
+- **Features:** RAG workflows, agentic workflows, dynamic content management, document ingestion, contextual Q&A
+- **Highlights:** Advanced prompt engineering, modular architecture, study optimization
 
 ### 🔍 [YOLOv5-Visual-Recognition](https://github.com/Karanpal-Sekhon/Yolov5-Visual-Recognition)
 Computer vision project implementing YOLOv5 for object detection and recognition.
