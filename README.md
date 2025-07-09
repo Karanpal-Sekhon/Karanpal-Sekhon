@@ -84,11 +84,9 @@ Medical prediction model for stroke risk assessment using machine learning.
 
 ## 📊 GitHub Stats
 
-  ![Karanpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karanpal-Sekhon&show_ico
-  ns=true&theme=radical&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Karanpal-Sekhon&layout=compact&theme=radical)](https://git.io/streak-stats)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpal-Sekhon&layout=
-  compact&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karanpal-Sekhon&layout=compact&theme=radical)
 
 ## 🎓 Certifications
 - Certificate in Fundamentals of Reinforcement Learning and A Complete Reinforcement Learning System
