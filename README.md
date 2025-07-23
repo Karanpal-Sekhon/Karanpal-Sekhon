@@ -24,7 +24,7 @@ I'm an aspiring **ML/AI Software Engineer** with a Bachelor's in Computing Scien
 - Reduced backend inference time from **15 minutes to 2 minutes** using **FastAPI** and **SQL** optimizations
 - Implemented modular, efficient, and scalable pipelines, decreasing technical debt
 
-### 🏢 OpenPenna | Machine Learning Engineer Intern
+### 🏢 OpenPinna | Machine Learning Engineer Intern
 *Jan. 2024 - Sept. 2024*
 - Developed scalable client outreach system using **Retrieval-Augmented Generation (RAG)** with **LangChain**
 - Contributed to evidence management system design and deployment on **AWS**
