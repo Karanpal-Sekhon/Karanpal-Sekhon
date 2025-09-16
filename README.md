@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm an aspiring **ML/AI Software Engineer** with a Bachelor's in Computing Science (Specialization in Computing Science) at the University of Alberta. I'm passionate about developing innovative AI solutions and have hands-on experience in machine learning, deep learning, and full-stack development.
 
-🔭 Currently incoming as an **Applied Machine Learning Intern** at Vector Institute  
+🔭 Currently an **Applied Machine Learning Intern** at Vector Institute  
 📫 How to reach me: **ksekhon2015@gmail.com**  
 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/Karanpal-Sekhon)  
 📍 Based in Edmonton, AB
