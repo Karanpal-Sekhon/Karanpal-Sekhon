@@ -10,7 +10,7 @@ I'm an aspiring **ML/AI Software Engineer** with a Bachelor's in Computing Scien
 
 ## 💼 Experience
 
-### 🏢 Vector Institute | Incoming Applied Machine Learning Intern
+### 🏢 Vector Institute | Applied Machine Learning Intern
 *Sept. 2025 - Dec. 2025*
 - Contributing to applied ML projects by developing reusable AI software and model templates using **PyTorch** and **TensorFlow**
 - Supporting industry and research collaborations by prototyping real-world AI applications
